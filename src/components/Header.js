@@ -7,10 +7,11 @@ class Header extends Component {
             <header className="App-header">
                 <img src={starlinkLogo} className="App-logo" alt="logo" />
                 <p className="title">
-                StarLink Tracker
+                    StarLink Tracker
                 </p>
             </header>
         );
     }
 }
+
 export default Header;
